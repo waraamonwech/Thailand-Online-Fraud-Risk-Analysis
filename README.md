@@ -1,4 +1,4 @@
-# Thailand-Online-Fraud-Risk-Analysis
+# Risk Area Analysis of Online Fraud in Thailand
 
 **การวิเคราะห์พื้นที่เสี่ยงของคดีหลอกลวงออนไลน์ในประเทศไทย โดยใช้เทคนิคการจัดกลุ่มข้อมูลและแดชบอร์ดเชิงโต้ตอบ**
 *Risk Area Analysis of Online Fraud Cases in Thailand Using Data Clustering Techniques and an Interactive Dashboard*
